@@ -7,7 +7,6 @@ This project is a **Sales & Profit Dashboard** built in Excel, designed to provi
 - **Data Cleaning & Transformation:** Using Power Query
 - **Calculated Columns:**
   - Total Sales = Price × Quantity
-  - Delivery Days = Delivery_Date - Order_Date
 - **Time-based Analysis:** Monthly and hourly trends
 - **Data Modeling:** Relationships between tables for accurate analysis
 - **Interactive Visual Analysis:** Pivot Tables, Charts, and Slicers
