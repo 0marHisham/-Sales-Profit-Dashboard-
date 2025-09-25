@@ -26,6 +26,13 @@ This project is a **Sales & Profit Dashboard** built in Excel, designed to provi
 3. Explore interactive Pivot Tables and Charts to analyze sales performance.
 4. Use slicers to filter by time periods, product categories, or regions.
 
+## Observations / Lessons Learned
+- Hands-on experience in building interactive dashboards in Excel.
+- Learned advanced data cleaning and transformation techniques.
+- Understood calculation of business KPIs and their visualization.
+- Gained skills in Pivot Tables, Charts, and Slicers for effective reporting.
+- Recognized the importance of clean, structured data for accurate analysis.
+
 ## Benefits
 - Identify top-performing products and regions
 - Monitor sales trends and profitability
